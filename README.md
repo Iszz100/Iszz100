@@ -5,14 +5,16 @@
 
 - 🔭 I’m Study on SMK TELKOM SIDOARJO **SKOMDA**
 
-- 🌱 I’m currently learning **Backend, Frontend**
+- 🌱 I’m currently learning **Backend, Frontend, CyberSecurity**
+
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/portofolio-louis/home](https://sites.google.com/view/portofolio-louis/home)
 
 - 📫 How to reach me **louisfpj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/louis fachri putra jatmiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis fachri putra jatmiko" height="30" width="40" /></a>
-<a href="https://instagram.com/luisfahrikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisfahrikah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/louis-fachri-putra-jatmiko-878889291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/louis-fachri-putra-jatmiko-878889291/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/luisfahrikah?utm_source=ig_web_button_share_sheet&igsh=nhi4z3fhzwn6d25v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luisfahrikah?utm_source=ig_web_button_share_sheet&igsh=nhi4z3fhzwn6d25v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
