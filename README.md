@@ -5,7 +5,7 @@
 
 - 🔭 I’m Study on SMK TELKOM SIDOARJO **SKOMDA**
 
-- 🌱 I’m currently learning **Backend, Frontend, CyberSecurity**
+- 🌱 I’m currently learning **Backend and CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/portofolio-louis/home](https://sites.google.com/view/portofolio-louis/home)
 
