@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Developer, CyberSecurity Junior and System Administrator Junior**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/portofolio-louis/home](https://sites.google.com/view/portofolio-louis/home)
+- 👨‍💻 All of my projects are available at [louisfachri.my.id)
 
 - 📫 How to reach me **louisfpj@gmail.com**
 
