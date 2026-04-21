@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis Fachri Putra Jatmiko</h1>
-<h3 align="center">A passionate Backend developer from Indonesia-Jawa Timur-Sidoarjo</h3>
+<h3 align="center">A passionate Cybersecurity Enthusiast and System Administrator from Indonesia-Jawa Timur-Sidoarjo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iszz100&label=Profile%20views&color=0e75b6&style=flat" alt="iszz100" /> </p>
 
